@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "93372511ffa2084900d42e16a533d92ab1078cff8d8e1ca38c2517a60724d3e5"
+            "sha256": "6ab36ac8934705458e8f965c98fc9b7acf5ef3c9e1ea399b520fab646eb8cd0c"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -88,8 +88,10 @@
             "version": "==5.13.2"
         },
         "kittencorner": {
-            "editable": true,
-            "file": "../kitten-corner"
+            "file": "../kitten-corner/dist/KittenCorner-0.1.tar.gz",
+            "hashes": [
+                "sha256:d61450b73c45c947e4f42206148878c8533577ba68bf923697634d900977f7bf"
+            ]
         },
         "mypy-extensions": {
             "hashes": [
