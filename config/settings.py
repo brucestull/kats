@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     # "KittenCorner", # Does not work, even though it is the name of the package.
     "kitten_corner.apps.KittenCornerConfig",
+    "kat_food_corner.apps.KatFoodCornerConfig",
 ]
 
 MIDDLEWARE = [
