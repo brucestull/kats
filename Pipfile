@@ -8,8 +8,8 @@ django = "*"
 black = "*"
 isort = "*"
 flake8 = "*"
-katfoodcorner = {file = "../kat-food-corner/dist/KatFoodCorner-0.1.tar.gz"}
-kittencorner = {file = "../kitten-corner/dist/KittenCorner-0.1.tar.gz"}
+kittencorner = {file = "../kitten-corner", editable = true}
+katfoodcorner = {file = "../kat-food-corner", editable = true}
 
 [dev-packages]
 
