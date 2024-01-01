@@ -21,4 +21,5 @@ urlpatterns = [
     path("admin/", admin.site.urls),
     path("kittens/", include("kitten_corner.urls")),
     path("foods/", include("kat_food_corner.urls")),
+    path("kats/", include("kat_corner.urls")),
 ]

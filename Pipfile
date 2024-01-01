@@ -10,6 +10,7 @@ isort = "*"
 flake8 = "*"
 kittencorner = {file = "../kitten-corner", editable = true}
 katfoodcorner = {file = "../kat-food-corner", editable = true}
+katcorner = {file = "../kat-corner", editable = true}
 
 [dev-packages]
 

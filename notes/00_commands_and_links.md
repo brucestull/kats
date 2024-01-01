@@ -17,6 +17,7 @@
 
 - `pipenv install -e ..\kitten-corner\`
 - `pipenv install -e ..\kat-food-corner\`
+- `pipenv install -e ..\kat-corner\`
 
 ## Install from `tar.gz` Compressed Archive Files
 
@@ -30,3 +31,4 @@
 
 - [http://localhost:8000/kittens/](http://localhost:8000/kittens/)
 - [http://localhost:8000/foods/](http://localhost:8000/foods/)
+- [http://localhost:8000/kats/](http://localhost:8000/kats/)

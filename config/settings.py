@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     # "KittenCorner", # Does not work, even though it is the name of the package.
     "kitten_corner.apps.KittenCornerConfig",
     "kat_food_corner.apps.KatFoodCornerConfig",
+    "kat_corner.apps.KatCornerConfig",
 ]
 
 MIDDLEWARE = [
