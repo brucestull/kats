@@ -23,6 +23,7 @@
 
 - `pipenv install ..\kitten-corner\dist\KittenCorner-0.1.tar.gz`
 - `pipenv install ..\kat-food-corner\dist\KatFoodCorner-0.1.tar.gz`
+- `pipenv install ..\kat-corner\dist\KatCorner-0.1.tar.gz`
 
 ## Links
 
