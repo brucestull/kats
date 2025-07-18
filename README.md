@@ -82,7 +82,7 @@ python manage.py makemigrations kat_food_corner
 
 ---
 
-## 🌐 App URLs
+## 🌐 App DEV URLs
 
 | App             | URL                                                              |
 | --------------- | ---------------------------------------------------------------- |
