@@ -15,15 +15,15 @@
 
 ## Install with Editing Enabled
 
-- `pipenv install -e ..\kitten-corner\`
-- `pipenv install -e ..\kat-food-corner\`
-- `pipenv install -e ..\kat-corner\`
+- `pipenv install -e ..\kats-kitten-corner\`
+- `pipenv install -e ..\kats-kat-food-corner\`
+- `pipenv install -e ..\kats-kat-corner\`
 
 ## Install from `tar.gz` Compressed Archive Files
 
-- `pipenv install ..\kitten-corner\dist\KittenCorner-0.1.tar.gz`
-- `pipenv install ..\kat-food-corner\dist\KatFoodCorner-0.1.tar.gz`
-- `pipenv install ..\kat-corner\dist\KatCorner-0.1.tar.gz`
+- `pipenv install ..\kats-kitten-corner\dist\KittenCorner-0.1.tar.gz`
+- `pipenv install ..\kats-kat-food-corner\dist\KatFoodCorner-0.1.tar.gz`
+- `pipenv install ..\kats-kat-corner\dist\KatCorner-0.1.tar.gz`
 
 ## Links
 
