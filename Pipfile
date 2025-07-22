@@ -12,6 +12,7 @@ kittencorner = {file = "../kats-kitten-corner", editable = true}
 katfoodcorner = {file = "../kats-kat-food-corner", editable = true}
 katcorner = {file = "../kats-kat-corner", editable = true}
 pipdeptree = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
