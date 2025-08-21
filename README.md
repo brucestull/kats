@@ -29,7 +29,7 @@ kats/
 ├── manage.py
 └── notes
     ├── 00_commands_and_links.md        # Common commands and links
-    └── chatgpt_project_creation.md     # Dev notes and ChatGPT instructions
+    └── chatgpt_project_creation_00.md     # Dev notes and ChatGPT instructions
 ```
 
 ---
@@ -95,7 +95,7 @@ python manage.py makemigrations kat_food_corner
 
 ## 🧪 Development Notes
 
-* See [`notes/chatgpt_project_creation.md`](notes/chatgpt_project_creation.md) for ChatGPT-generated planning.
+* See [`notes/chatgpt_project_creation_00.md`](notes/chatgpt_project_creation_00.md) for ChatGPT-generated planning.
 * See [`notes/00_commands_and_links.md`](notes/00_commands_and_links.md) for quick commands and links.
 
 ---
